@@ -1,0 +1,54 @@
+conehead-attack-3.png
+size: 381, 55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile000
+  rotate: false
+  xy: 1, 1
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+tile001
+  rotate: false
+  xy: 166, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tile002
+  rotate: false
+  xy: 220, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tile003
+  rotate: false
+  xy: 56, 1
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+tile004
+  rotate: false
+  xy: 274, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tile005
+  rotate: false
+  xy: 328, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tile006
+  rotate: false
+  xy: 111, 1
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

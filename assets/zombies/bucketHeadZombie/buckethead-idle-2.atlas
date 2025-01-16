@@ -1,0 +1,54 @@
+buckethead-idle-2.png
+size: 365, 53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile000
+  rotate: false
+  xy: 107, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+tile001
+  rotate: false
+  xy: 159, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+tile002
+  rotate: false
+  xy: 315, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+tile003
+  rotate: false
+  xy: 211, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+tile004
+  rotate: false
+  xy: 1, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tile005
+  rotate: false
+  xy: 54, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tile006
+  rotate: false
+  xy: 263, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
